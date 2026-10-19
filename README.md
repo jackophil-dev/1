@@ -21,9 +21,14 @@ AI tools may support the workflow, but generated output is not treated as verifi
 
 Small, well-defined tasks and larger milestone-based projects are both welcome. Scope, access requirements, delivery terms, and pricing should be agreed before work begins.
 
-## Contact
+## Contact me
 
-Please open a GitHub issue or use the contact method listed on the profile associated with this repository.
+Interested in working together? Reach me directly through either channel:
+
+- **Email:** [philippe_beauchamp@hotmail.com](mailto:philippe_beauchamp@hotmail.com)
+- **Facebook:** [facebook.com/jackoanon](https://www.facebook.com/jackoanon)
+
+You can also open a GitHub issue for a public project question. Please avoid posting private or sensitive information in public issues.
 
 ---
 
